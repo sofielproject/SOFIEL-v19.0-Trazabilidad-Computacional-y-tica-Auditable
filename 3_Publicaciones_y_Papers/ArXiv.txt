@@ -3,7 +3,6 @@
 
 **Autor:** EM4
 **Repositorio:** [https://github.com/sofielproject/SOFIEL-v19.0-Trazabilidad-Computacional-y-tica-Auditable](https://github.com/sofielproject/SOFIEL-v19.0-Trazabilidad-Computacional-y-tica-Auditable)
-**arXiv:** [https://arxiv.org/abs/2604.SOFIEL](https://arxiv.org/abs/2604.SOFIEL)
 **Fecha:** Abril 2026
 **Versión del documento:** 19.0
 
