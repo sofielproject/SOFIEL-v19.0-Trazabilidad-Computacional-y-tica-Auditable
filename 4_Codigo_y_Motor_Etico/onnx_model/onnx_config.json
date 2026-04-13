@@ -1,0 +1,12 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "onnx_file": "model.onnx",
+  "vector_dim": 384,
+  "max_length": 128,
+  "exported_at": "2026-04-11T02:11:34Z",
+  "benchmark": {
+    "pytorch_ms": 142.2,
+    "onnx_ms": 63.7,
+    "speedup": 2.23
+  }
+}
